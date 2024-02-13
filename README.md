@@ -41,8 +41,8 @@ If you're new to Java or looking to refresh your skills, here's how you can get 
 Contributions to this repository are encouraged and welcomed! If you have knowledge or expertise in Java programming language or Java EE technologies that you'd like to share, feel free to contribute articles, tutorials, or improvements to the existing content.
 
 ## Contributors
-<a href="https://github.com/smit-joshi814/java/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=smit-joshi814/java&max=5" />
+<a href="https://github.com/smit-joshi814/Advance-java/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=smit-joshi814/Advance-java&max=5" />
 </a>
 
 ## Support and Feedback
